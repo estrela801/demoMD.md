@@ -32,5 +32,23 @@ para criar listas ordenadas usa-se <!-- 1.
 <p>meu parágrafo</p>
 </body>
 </html>
+
  ```
+
   essa tag indica a versão do html no documento. 
+
+    A tag `<!DOCTYPE html>` indica a versão do HTML no documento.
+
+A tag `<html lang="pt-BR"` indica o inicio do documento HTML. O atributo `lang="pt-BR"` indicará ao navegador a lingua que deve ser lida
+
+A tag `<head>`indica informações que o navegador deve saber. Estas informações não serão mostradas ao usuário.
+
+A tag `<meta charset="UTF-8"` meta indica as meta informações, são "informações sobre sobre as informações". Charset é um atributo que define caractéres e UTF-8 são os caractéres utilizados  para linguas latinas entre outras.
+
+A tag `<title>` é utilizada para definir qual será o titulo exibido para os navegadores.
+
+A tag `<body>` é utilizada para escrever os conteúdos serão exibidos no site.
+
+A tag `<h1>` é usada para definir titulos, exitem variações que devem serusadas por gráu de importância, elas vão de h1 á h6.
+
+A tag `<p>` é usada para escrever parágrafos. E todos estes aparecerão no site.
