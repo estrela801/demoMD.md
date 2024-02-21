@@ -52,3 +52,10 @@ A tag `<body>` é utilizada para escrever os conteúdos serão exibidos no site.
 A tag `<h1>` é usada para definir titulos, exitem variações que devem serusadas por gráu de importância, elas vão de h1 á h6.
 
 A tag `<p>` é usada para escrever parágrafos. E todos estes aparecerão no site.
+
+### Tabela de proficiência
+
+ Idioma | Nivel
+:--------:|:--------:
+ Inglês | intermediario (B1)
+ Espanhol | Básico
